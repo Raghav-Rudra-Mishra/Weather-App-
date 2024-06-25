@@ -1,0 +1,1 @@
+This weather app project uses API from openweatherapi.com and fetches real time temperature, humidity, wind speed data for a city. The code for the project can be seen int he html, css and javascript files included.
